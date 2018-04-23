@@ -1,0 +1,3 @@
+This is an exercise of Spring Batch per https://spring.io/guides/gs/batch-processing/
+build with Gradle, IntelliJ as IDE
+.gitignore from https://gist.github.com/PerryAJ/6c9b287f7a325e7fa36b
